@@ -33,7 +33,8 @@ Hi there 👋, I'm
 
 <!-- Stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamrajiv&bg_color=0969da&border_color=0969da&count_private=true&icon_color=ffffff&include_all_commits=true&show_icons=true&text_color=ffffff&title_color=ffffff" height="180" width="auto" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajiv&bg_color=0969da&border_color=0969da&layout=compact&text_color=ffffff&title_color=ffffff" height="180" width="auto" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamrajiv&bg_color=0969da&border_color=0969da&count_private=true&icon_color=ffffff&include_all_commits=true&show_icons=true&text_color=ffffff&title_color=ffffff" height="180" width="auto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajiv&bg_color=0969da&border_color=0969da&layout=compact&text_color=ffffff&title_color=ffffff" height="180" width="auto" />
 </p>
 
 <!-- About Me -->
