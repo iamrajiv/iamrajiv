@@ -102,5 +102,5 @@ Hi there 👋, I'm
 <p align="center">
 If you appreciate my work, maybe consider buying me a coffee to show your support.
 <br /><br />
-<a href="https://www.buymeacoffee.com/iamrajiv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" ></a>
+<a href="https://www.buymeacoffee.com/iamrajiv" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" height="auto" width="auto" ></a>
 </p>
