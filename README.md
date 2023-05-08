@@ -103,5 +103,5 @@ Hi there 👋, I'm
 If you appreciate my work, maybe consider buying me a coffee to show your support.
 <br /><br />
 <a href="https://github.com/sponsors/iamrajivv" target="_blank"><img src="https://github.githubassets.com/images/email/sponsors/mona.png" height="auto" width="100"></a>
-<a href="https://www.buymeacoffee.com/iamrajiv" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" height="auto" width="300"></a>
+<a href="https://www.buymeacoffee.com/iamrajiv" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" height="auto" width="100"></a>
 </p>
