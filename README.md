@@ -42,5 +42,5 @@ interested in anything @ `distributed systems` & `algorithms` 🌻
 
 If you appreciate my work, maybe consider buying me a coffee to show your support.
 <br /><br />
-<a href="https://github.com/sponsors/iamrajivv" target="_blank"><img src="https://github.githubassets.com/images/email/sponsors/mona.png" height="auto" width="100"></a>
+<a href="https://github.com/sponsors/iamrajiv" target="_blank"><img src="https://github.githubassets.com/images/email/sponsors/mona.png" height="auto" width="100"></a>
 <a href="https://www.buymeacoffee.com/iamrajiv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="auto" width="200"></a>
