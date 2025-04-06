@@ -3,9 +3,9 @@ Hi there 👋, I'm
 <a href="https://iamrajiv.github.io">Rajiv</a>
 </h3>
 
-i write software for a living and have primarily worked on `backend systems` and `infrastructure` 🌻
+i write software for a living and have primarily worked on `backend systems` and `infrastructure`
 <br />
-interested in anything @ `distributed systems` & `algorithms` 🌻
+interested in anything @ `distributed systems` & `algorithms`
 
 <!-- Social Profiles -->
 
