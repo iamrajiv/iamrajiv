@@ -13,7 +13,7 @@ interested in anything @ `distributed systems` & `algorithms`
 <a href="https://github.com/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=github&logoColor=ffffff&message=GitHub&style=flat-square" /></a>
 <a href="https://gitlab.com/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=gitlab&logoColor=ffffff&message=GitLab&style=flat-square" /></a>
 <a href="mailto:rajivperfect007@gmail.com"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=gmail&logoColor=ffffff&message=Gmail&style=flat-square" /></a>
-<a href="https://scholar.google.com/citations?user=WfnukvEAAAAJ"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=googlescholar&logoColor=ffffff&message=Google Scholar&style=flat-square" /></a>
+<a href="https://scholar.google.com/citations?user=WfnukvEAAAAJ"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=googlescholar&logoColor=ffffff&message=Google%20Scholar&style=flat-square" /></a>
 <a href="https://iamrajiv.hashnode.dev"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hashnode&logoColor=ffffff&message=Hashnode&style=flat-square" /></a>
 <a href="https://www.instagram.com/iamrajivranjansingh"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=instagram&logoColor=ffffff&message=Instagram&style=flat-square" /></a>
 <a href="https://keybase.io/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=keybase&logoColor=ffffff&message=Keybase&style=flat-square" /></a>
