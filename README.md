@@ -34,7 +34,12 @@ interested in anything @ `distributed systems` & `algorithms`
 <a href="https://www.hackerrank.com/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=HackerRank&style=flat-square" /></a>
 
 <!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=iamrajiv&bg_color=0969da&border_color=0969da&count_private=true&icon_color=ffffff&include_all_commits=true&show_icons=true&text_color=ffffff&title_color=ffffff" height="180" width="auto" />
+
+<img
+  src="https://github-readme-stats-steel-omega.vercel.app/api?username=iamrajiv&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0969da&text_color=ffffff&icon_color=ffffff&title_color=ffffff&count_private=true"
+  height="180"
+  width="auto"
+/>
 
 ---
 
